@@ -25,22 +25,11 @@
           "downloadURL": "https://github.com/revenge-mod/revenge-tweak/releases/download/v250.0/Revenge.ipa"
         },
         {
-          "version": "250.0",
-          "date": "2024-10-17",
-          "size": 101218840,
-          "downloadURL": "https://github.com/revenge-mod/revenge-tweak/releases/download/v250.0/Revenge.ipa"
-        },
-        {
           "version": "246.0",
           "date": "2024-09-15",
           "size": 102811465,
           "downloadURL": "https://github.com/revenge-mod/RevengeTweak/releases/download/v246.0/Revenge.ipa"
-        },
-        {
-          "version": "246.0",
-          "date": "2024-09-14",
-          "size": 103194076,
-          "downloadURL": "https://github.com/revenge-mod/RevengeTweak/releases/download/v246.0/Revenge.ipa"
+        }ipa"
         }
       ],
       "appPermissions": {}
